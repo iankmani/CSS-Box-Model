@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [CSS BOX MODEL DOCUMENTATION](#css-box-model-documentation)
+  - [what is a CSS box model](#what-is-a-css-box-model)
+  - [CSS Box Model Overview](#css-box-model-overview)
+  - [Box Model Properties:](#box-model-properties)
+  - [Box Sizing](#box-sizing)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # CSS BOX MODEL DOCUMENTATION   
 ## what is a CSS box model 
 
@@ -37,7 +49,7 @@ element {
     margin: 10px 20px 30px 40px;
  }  
  ```
- 
+ git
  ## Box Model Properties:
  CSS provides several properties to control the dimensions and spacing of elements within the box model:  
  1. **Width** -Sets the width of the content area of the element.
